@@ -36,7 +36,7 @@ function startVoiceRecognition() {
     const additionalParams = {
       headers: {
         //'x-api-key': 'SF4HWtJK2laqWpI8Oll459AyGwEEAvQtauktC6Zf'
-        'x-api-key':  'eRof47AdXC2JRSExIHjAR7MSU9PEwpfo88SLUC9p'
+        'x-api-key':  'yablAXCvvDNim7HBeJ2c7Z4dtMybsoZ1RGwkQc97'
       }
     };
   
