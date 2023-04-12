@@ -35,7 +35,8 @@ function startVoiceRecognition() {
     const params = { q: encodedQuery };
     const additionalParams = {
       headers: {
-        'x-api-key': 'SF4HWtJK2laqWpI8Oll459AyGwEEAvQtauktC6Zf'
+        //'x-api-key': 'SF4HWtJK2laqWpI8Oll459AyGwEEAvQtauktC6Zf'
+        'x-api-key':  'eRof47AdXC2JRSExIHjAR7MSU9PEwpfo88SLUC9p'
       }
     };
   
